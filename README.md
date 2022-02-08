@@ -1,5 +1,5 @@
 # covid19-prognosis
-В этом проекте мы построили модели полиномиальной регрессии для прогнозирвоания заболеваемости и смертности от Covid-19 в России и в мире.
+В этом проекте мы построили модели полиномиальной регрессии для прогнозирования заболеваемости и смертности от Covid-19 в России и в мире.
 Для обучения и проверки модели использовался публично доступный датасет 
 COVID 19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University
 (https://github.com/CSSEGISandData/COVID 19).
